@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Dhanyasri
 
-<!--
-**dhanyasri963-web/dhanyasri963-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Student | Aspiring Developer | Consistent Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  College student exploring the world of technology  
+-  Passionate about coding and problem-solving  
+-  Currently learning: Python, Git, and core programming concepts  
+-  Goal: Become a skilled developer and build impactful projects  
+
+---
+
+##  Skills & Tools
+-  Languages: Python (Beginner)  
+-  Tools: Git, GitHub  
+-  Currently Exploring: Data Structures & Problem Solving  
+
+---
+
+##  Projects
+-  Projects coming soon  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanyasri963-web&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=dhanyasri963-web&theme=tokyonight)
+
+---
+
+##  Connect With Me
+-  LinkedIn: Dhanyasri M  
+-  Email: dhanyasri963@gmail.com
+
+---
+
+## ✨ Fun Fact
+I believe small daily progress leads to big success 
